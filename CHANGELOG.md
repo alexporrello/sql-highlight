@@ -31,6 +31,20 @@ will get highlighted the same as before, i.e. no syntax highlighting for EMP or 
 
 * Dropping support for Node.js 14
 
+## [4.4.2](https://github.com/scriptcoded/sql-highlight/compare/v4.4.1...v4.4.2) (2024-03-10)
+
+
+### Bug Fixes
+
+* add COMMIT keyword ([b9ccf62](https://github.com/scriptcoded/sql-highlight/commit/b9ccf622c7d486fc950ed34e7a9f2ad6551d6f6a))
+
+## [4.4.1](https://github.com/scriptcoded/sql-highlight/compare/v4.4.0...v4.4.1) (2024-03-10)
+
+
+### Bug Fixes
+
+* add RETURNING keyword ([e36fb72](https://github.com/scriptcoded/sql-highlight/commit/e36fb727c207671d6f3b4f7781637a663e5a63a4))
+
 ## [4.3.2](https://github.com/scriptcoded/sql-highlight/compare/v4.3.1...v4.3.2) (2023-03-16)
 
 ### Bug Fixes
